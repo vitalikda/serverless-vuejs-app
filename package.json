@@ -1,9 +1,9 @@
 {
-  "name": "serverless-demo-store",
+  "name": "serverless-vuejs-app",
   "version": "1.0.0",
   "private": true,
   "description": "Fullstack Demo Store with VueJS, Serverless and FaunaDB ",
-  "author": "Vitaly",
+  "author": "Vitaly (http://vitaly.im)",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -45,5 +45,11 @@
     "last 2 versions",
     "not dead"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "serverless",
+    "netlify",
+    "vue.js",
+    "faunadb"
+  ]
 }

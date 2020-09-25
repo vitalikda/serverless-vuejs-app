@@ -1,2 +1,3 @@
-# serverless-demo-store
-Fullstack Demo Store with VueJS, Serverless and FaunaDB 
+# Serverless Vue.js App
+
+Fullstack Demo Store with VueJS, Serverless and FaunaDB
